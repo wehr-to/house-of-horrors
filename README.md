@@ -54,7 +54,3 @@
 - **Cross:** LLVM, Capstone/Keystone, FFI (CFFI, SWIG), Make/CMake.
 
 
-
-
----
-
