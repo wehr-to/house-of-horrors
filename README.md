@@ -4,7 +4,7 @@
 
 ### 1. **Python > Raw x86 Assembly Transpiler**
 - Write a transpiler that takes a subset of Python code and outputs raw x86 assembly.
-- No `Cython`, `Nuitka`, or existing compilers — parse, tokenize, and emit instructions yourself.
+- No `Cython`, `Nuitka`, or existing compilers, parse, tokenize, and emit instructions yourself.
 - **Skills:** Bytecode analysis (`dis`), compiler basics, CPU instructions.
 
 ### 2. **C++-Style Static Typing in Python**
